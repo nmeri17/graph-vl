@@ -98,3 +98,6 @@ class Model2 implements QueryAccessorInterface {
 }
 
  ```
+
+# TO-DO
+-    Convert to a proper, composer-installable package
